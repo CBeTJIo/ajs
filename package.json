@@ -1,0 +1,20 @@
+{
+  "name": "@cbetjio/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/CBeTJIo/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/CBeTJIo/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBeTJIo/ajs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
